@@ -27,6 +27,7 @@ These repos walk through an AppSec engagement lifecycle, from threat modeling th
 | **Exploit & Validate** | [owasp-top10-exploitation](https://github.com/adamtamenne/owasp-top10-exploitation) | Manual exploitation of all OWASP Top 10 categories with Burp Suite, screenshots, and remediation code |
 | **Normalize** | [appsec-sandbox](https://github.com/adamtamenne/appsec-sandbox) | Multi-scanner orchestration with cross-tool finding normalization and deduplication |
 | **Harden** | [aws-security-controls](https://github.com/adamtamenne/aws-security-controls) | Terraform modules implementing AWS security controls aligned to SCS-C02 |
+| **Scan (Node.js)** | [secure-microservices](https://github.com/adamtamenne/secure-microservices) | Intentionally vulnerable Node.js microservices with a five-stage security pipeline |
 | **Respond** | [aws-incident-response-scripts](https://github.com/adamtamenne/aws-incident-response-scripts) | Automated scripts for AWS security incident response |
 
 ---
