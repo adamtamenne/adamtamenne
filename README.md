@@ -4,11 +4,11 @@
 
 **Application Security Engineer**
 
-DAST · ASPM · SAST/SCA Triage · DevSecOps · Kubernetes · CI/CD Security
+DAST · ASPM · SAST/SCA · DevSecOps · Kubernetes · CI/CD Security
 
 [![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-c8202f?style=flat-square)](https://www.comptia.org/certifications/cybersecurity-analyst)
 [![Berkeley](https://img.shields.io/badge/UC_Berkeley-MICS-003262?style=flat-square)](https://ischool.berkeley.edu/programs/mics)
-[![AWS](https://img.shields.io/badge/AWS_Security-In_Progress-FF9900?style=flat-square)](https://aws.amazon.com/certification/certified-security-specialty/)
+[![AWS](https://img.shields.io/badge/AWS_Security_Specialty-In_Progress-FF9900?style=flat-square)](https://aws.amazon.com/certification/certified-security-specialty/)
 
 I help organizations operationalize application security tooling: deploying scanners, tuning findings,<br>eliminating false positives, integrating security into CI/CD pipelines, and making results actionable.
 
