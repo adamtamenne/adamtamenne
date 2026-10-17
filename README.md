@@ -10,7 +10,7 @@ DAST · ASPM · SAST/SCA · DevSecOps · Kubernetes · CI/CD Security
 [![Berkeley](https://img.shields.io/badge/UC_Berkeley-MICS-003262?style=flat-square)](https://ischool.berkeley.edu/programs/mics)
 [![AWS](https://img.shields.io/badge/AWS_Security_Specialty-In_Progress-FF9900?style=flat-square)](https://aws.amazon.com/certification/certified-security-specialty/)
 
-I help organizations operationalize application security tooling: deploying scanners, tuning findings,<br>eliminating false positives, integrating security into CI/CD pipelines, and making results actionable.
+I find vulnerabilities in web applications, validate exploitability, and drive remediation across development teams. I integrate security tooling into CI/CD pipelines and build the processes that keep findings actionable at scale.
 
 </div>
 
