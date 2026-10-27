@@ -4,7 +4,7 @@
 
 **Application Security Engineer**
 
-DAST · SAST/SCA · ASPM · DevSecOps · MITRE ATT&CK · Threat Modeling · CI/CD Security
+DAST · SAST/SCA · DevSecOps · Threat Modeling · CI/CD Security · MITRE ATT&CK
 
 [![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-c8202f?style=flat-square)](https://www.comptia.org/certifications/cybersecurity-analyst)
 [![Berkeley](https://img.shields.io/badge/UC_Berkeley-MICS-003262?style=flat-square)](https://ischool.berkeley.edu/programs/mics)
