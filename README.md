@@ -16,6 +16,15 @@ I find vulnerabilities in web applications, validate exploitability, and drive r
 
 ---
 
+## Labs
+
+> Autonomous security research and detection engineering
+
+| Project | What It Does |
+|---------|-------------|
+| [autonomous-vuln-research](https://github.com/adamtamenne/autonomous-vuln-research) | Four-stage pipeline (OpenGrep → ZAP → Playwright → Claude) that takes a SAST finding, maps it to a live endpoint from source code, authenticates, crafts a payload, and produces a browser-confirmed exploit |
+| [attack-lifecycle-mapping](https://github.com/adamtamenne/attack-lifecycle-mapping) | Maps AppSec findings to MITRE ATT&CK technique chains with detection strategies and response playbooks |
+
 ## Projects
 
 These repos walk through an AppSec engagement lifecycle, from threat modeling through incident response.
