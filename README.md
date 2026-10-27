@@ -27,7 +27,7 @@ I find vulnerabilities in web applications, validate exploitability, and drive r
 
 ## Projects
 
-These repos walk through an AppSec engagement lifecycle, from threat modeling through incident response.
+> These repos walk through an AppSec engagement lifecycle, from threat modeling through incident response.
 
 | Phase | Repo | What It Does |
 |-------|------|-------------|
