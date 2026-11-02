@@ -42,20 +42,6 @@ I find vulnerabilities in web applications, validate exploitability, and drive r
 
 ---
 
-## Tools
-
-| Category | Tools |
-|----------|-------|
-| DAST | Invicti, Acunetix, OWASP ZAP, Burp Suite |
-| SAST/SCA | Semgrep, Checkmarx, Snyk, Dependabot, Trivy |
-| ASPM | Invicti ASPM (centralized triage across scanner types) |
-| Infrastructure | Kubernetes (Helm, k3s, AKS), Docker, AWS, Azure, Terraform |
-| CI/CD | GitHub Actions, Azure DevOps |
-| Observability | Dynatrace |
-| Detection & Response | MITRE ATT&CK, log correlation, incident triage |
-
----
-
 <div align="center">
 
 tamennea@gmail.com · [LinkedIn](https://www.linkedin.com/in/adamtamenne)
