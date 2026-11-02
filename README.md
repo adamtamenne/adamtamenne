@@ -23,7 +23,7 @@ I find vulnerabilities in web applications, validate exploitability, and drive r
 | Project | What It Does |
 |---------|-------------|
 | [autonomous-vuln-research](https://github.com/adamtamenne/autonomous-vuln-research) | Four-stage pipeline (OpenGrep → ZAP → Playwright → Claude) that takes a SAST finding, maps it to a live endpoint from source code, authenticates, crafts a payload, and produces a browser-confirmed exploit |
-| [attack-lifecycle-mapping](https://github.com/adamtamenne/attack-lifecycle-mapping) | Maps AppSec findings to MITRE ATT&CK technique chains with detection strategies and response playbooks |
+| [ci-threat-modeling](https://github.com/adamtamenne/ci-threat-modeling) | Automated STRIDE threat modeling and PR diff security review in CI/CD — scans code changes for vulnerability patterns and posts findings to the PR |
 
 ## Projects
 
@@ -38,6 +38,7 @@ I find vulnerabilities in web applications, validate exploitability, and drive r
 | **Normalize** | [appsec-sandbox](https://github.com/adamtamenne/appsec-sandbox) | Multi-scanner orchestration with cross-tool finding normalization and deduplication |
 | **Harden** | [aws-security-controls](https://github.com/adamtamenne/aws-security-controls) | Terraform modules implementing AWS security controls aligned to SCS-C02 |
 | **Respond** | [aws-incident-response-scripts](https://github.com/adamtamenne/aws-incident-response-scripts) | Automated scripts for AWS security incident response |
+| **Appsec lifecycle mapping** | [attack-lifecycle-mapping](https://github.com/adamtamenne/attack-lifecycle-mapping) | Maps AppSec findings to MITRE ATT&CK technique chains with detection strategies and response playbooks |
 
 ---
 
